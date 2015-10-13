@@ -51,7 +51,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="App42-Unity3D-SDK-4.1.2">
- <HintPath>D:/ZZGaming/App42-MA-Unity3D-Sample/Assets/plugins/App42-Unity3D-SDK-4.1.2.dll</HintPath>
+ <HintPath>D:/@KSH@Y/UNITY3D-PROJECTS/1UNITYSAMPLES/Marketing_Automation_Unity/App42-MA-Unity3D-Sample/Assets/plugins/App42-Unity3D-SDK-4.1.2.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
